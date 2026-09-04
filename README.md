@@ -11,6 +11,7 @@
 * It solves the lack of accessible, real-time, and data-driven simulation platforms for cricket enthusiasts, analysts, and sports strategists. While fans and analysts love strategizing squad combinations, existing tools are often static or lack real-time financial constraints. 
 * This platform provides a dynamic, multiplayer environment featuring a comprehensive historical player database (spanning 2008-2026), live purse calculations, and customizable auction modes.
 * It enables users to accurately simulate the high-stakes mega auction environment, allowing them to test complex team-building strategies, track overseas player caps, and understand franchise management dynamics interactively.
+* Also some more features like **AI BIDDING STRATEGY AGENT** and **PURSE OPTIMISING AGENT** will be added soon for the professional touch and more accurate squad selections which makes each auction more heaten up!
 
 🔗 **[Launch Live Demo](https://iplauction-nine.vercel.app/)** 
 
