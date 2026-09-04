@@ -1,73 +1,39 @@
 # Welcome to your Lovable project
 
-## Project info
 
-**URL**: https://iplauction-nine.vercel.app/
+##🏏 IPL Auction Mastermind
+An interactive, real-time Indian Premier League auction simulator that brings the thrill of the mega auction to your screen.
 
-## How can I edit this code?
+IPL Auction Mastermind is a dynamic web application designed to replicate the high-stakes environment of the IPL auction table. Whether you are strategizing team combinations or managing franchise purses, this platform delivers a seamless, multiplayer auction experience. It leverages prompt-driven frontend development to offer an intuitive and responsive user interface for cricket enthusiasts and data-driven strategists alike.
 
-There are several ways of editing your application.
+Check out the Live Demo to see the application in action!
 
-**Use Lovable**
+🚀 Key Features
+Live Purse Management: Real-time budget calculations and dynamic remaining purse updates for all participating franchises.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Extensive Player Database: Access to comprehensive historical player pools spanning from 2008 to the 2026 season.
 
-Changes made via Lovable will be committed automatically to this repo.
+Custom Auction Modes: Flexible settings to simulate different auction formats, including mega and mini-auctions.
 
-**Use your preferred IDE**
+Interactive UI/UX: A clean, responsive dashboard built for quick decision-making during fast-paced bidding wars.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+💻 Tech Stack
+Frontend: React, Vite, Tailwind CSS
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Architecture: Prompt-Driven Development
 
-Follow these steps:
+Deployment: Vercel (CI/CD Integrated)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Version Control: Git & GitHub
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+🛠️ Getting Started
+To explore or modify this project locally on your machine, follow these steps:
 
-# Step 3: Install the necessary dependencies.
-npm i
+Clone the repository: Run git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git) in your terminal.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Navigate to the directory: Open the folder using cd YOUR_REPO_NAME.
 
-**Edit a file directly in GitHub**
+Install dependencies: Run npm install to download all required packages.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Start the development server: Run npm run dev to launch the app on your local localhost environment.
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
