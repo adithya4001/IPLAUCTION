@@ -7,7 +7,10 @@
 
 > **Where Strategy Meets the Gavel: The Ultimate Indian Premier League Mega Auction Simulator**
 
-An interactive, real-time multiplayer web application engineered to replicate the high-stakes environment of the IPL auction table. Designed for cricket enthusiasts, franchise strategists, and sports data analysts, this platform transforms the complex dynamics of bidding wars, purse management, and squad building into a seamless digital experience.
+* An interactive, real-time multiplayer web application engineered to replicate the high-stakes environment of the IPL auction table. Designed for cricket enthusiasts, franchise strategists, and sports data analysts, this platform transforms the complex dynamics of bidding wars, purse management, and squad building into a seamless digital experience.
+* It solves the lack of accessible, real-time, and data-driven simulation platforms for cricket enthusiasts, analysts, and sports strategists. While fans and analysts love strategizing squad combinations, existing tools are often static or lack real-time financial constraints. 
+* This platform provides a dynamic, multiplayer environment featuring a comprehensive historical player database (spanning 2008-2026), live purse calculations, and customizable auction modes.
+* It enables users to accurately simulate the high-stakes mega auction environment, allowing them to test complex team-building strategies, track overseas player caps, and understand franchise management dynamics interactively.
 
 🔗 **[Launch Live Demo](https://iplauction-nine.vercel.app/)** 
 
