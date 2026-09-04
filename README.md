@@ -1,7 +1,7 @@
 # Welcome to your Lovable project
 
 
-##🏏 IPL Auction Mastermind
+##🏏 IPL Auction Mastermind ##
 An interactive, real-time Indian Premier League auction simulator that brings the thrill of the mega auction to your screen.
 
 IPL Auction Mastermind is a dynamic web application designed to replicate the high-stakes environment of the IPL auction table. Whether you are strategizing team combinations or managing franchise purses, this platform delivers a seamless, multiplayer auction experience. It leverages prompt-driven frontend development to offer an intuitive and responsive user interface for cricket enthusiasts and data-driven strategists alike.
